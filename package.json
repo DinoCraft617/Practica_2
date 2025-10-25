@@ -1,0 +1,16 @@
+{
+  "name": "practica-2",
+  "version": "1.0.0",
+  "description": "Proyecto de ejemplo con CI en Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "npx jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
