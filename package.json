@@ -1,5 +1,5 @@
 {
-  "name": "practica-2",
+  "name": "practica_2",
   "version": "1.0.0",
   "description": "Proyecto de ejemplo con CI en Node.js",
   "main": "app.js",
